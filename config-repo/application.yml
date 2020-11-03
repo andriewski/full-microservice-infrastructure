@@ -1,0 +1,6 @@
+spring:
+    cloud:
+        discovery:
+            enabled: true
+    zipkin:
+        enabled: true
